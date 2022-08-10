@@ -1,0 +1,17 @@
+body{
+  margin: 10px;
+  font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+  font-size: large;
+}
+.text
+{
+   
+  width: 100px;
+  height: 100px;
+
+}
+div{
+display: block;
+width: 1000px;
+background-color: beige;    
+}
