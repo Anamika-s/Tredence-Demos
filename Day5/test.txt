@@ -1,0 +1,3 @@
+The readyState property holds the status of the XMLHttpRequest.
+The onreadystatechange property defines a function to be executed when the readyState changes.
+The status property and the statusText property holds the status of the XMLHttpRequest object.
